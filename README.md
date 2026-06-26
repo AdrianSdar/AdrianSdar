@@ -1,6 +1,6 @@
 # Hi, I'm Adrian 👋
 
-A Computer Science student focused on Java and Flutter development.
+A Computer Science student at Stockholm university focused on Java and Flutter development.
 
 # Fiesto – AI-Powered Dinner Planning App
 
